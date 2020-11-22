@@ -16,6 +16,10 @@
 
 Mybatis专栏是作者的第一个专栏，花费了一个多月打造完成，从基础到底层源码详细介绍了Mybatis。
 
+
+
+![](https://gitee.com/chenjiabing666/Blog-file/raw/master/Mybatis%E8%BF%9B%E9%98%B6PDF/2.png)
+
 ### 文章目录
 
 1. [Mybatis入门之基本操作](https://mp.weixin.qq.com/s/KdrEvlShnVoYA8nr0qLSNw)
@@ -37,7 +41,23 @@ Mybatis专栏是作者的第一个专栏，花费了一个多月打造完成，�
 
 ### Mybatis专栏PDF
 
-- 下载地址：
+- 下载地址：[点击下载](https://github.com/chenjiabing666/myjszl_publish/raw/main/PDF/Mybatis%E8%BF%9B%E9%98%B6-%E7%A0%81%E7%8C%BF%E6%8A%80%E6%9C%AF%E4%B8%93%E6%A0%8F.pdf)
+
+## 开发资源
+
+作者总结常用的开发资源，希望能够帮助你们。
+
+### 文章目录
+
+1. [IDEA插件之Mybatis Log plugin破解，亲测可用!!!](https://mp.weixin.qq.com/s/QDfrkqS9dK4zKaIePCLzqQ)
+2. [Navicat Premium 12免费安装，你懂得~](https://mp.weixin.qq.com/s/4d-4xgPKvYBFX9I-ChUYDA)
+3. [Linux一键安装包，环境安装不用愁！！！](https://mp.weixin.qq.com/s/fEvHd2U2pTsO1d25OnbR2g)
+4. [优质资源分享 | Spring Boot 入门到放弃！！！](https://mp.weixin.qq.com/s/lFU047y3kXX13_hKYHDIeA)
+5. [《Mybatis进阶》肝了30天专栏文章，整理成册，免费获取！！！](https://mp.weixin.qq.com/s/1x2G7Lqm6wd5bfrIj7nZzA)
+6. [撸个反向代理工具，搞一搞JRebel](https://mp.weixin.qq.com/s/VBGoGMz0y2Y-y6NcdMcaLg)
+7. [推荐三款插件，让你玩转Github](https://mp.weixin.qq.com/s/UEsrQrSLEEDXu7PqkzGHiw)
+
+## Spring Boot 专栏文章
 
 
 
